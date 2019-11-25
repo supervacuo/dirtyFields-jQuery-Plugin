@@ -1,0 +1,19 @@
+{
+    "name": "@supervacuo/jquery-dirty-fields",
+    "version": "2.0.4",
+    "description": "jQuery plugin to track changed fields",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/supervacuo/dirtyFields-jQuery-Plugin.git"
+    },
+    "keywords": [
+				"dirty",
+				"fields",
+				"changed"
+    ],
+    "license": "BSD",
+    "homepage": "https://bcswartz.github.io/dirtyFields-jQuery-Plugin/"
+}
